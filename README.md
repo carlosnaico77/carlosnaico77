@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Carlos%20Lozano&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Automation%20%26%20AI%20Specialist&descAlignY=58&descAlign=50&descSize=18" width="100%"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXBtN2kzdTFlZm5qbDc4Z2w0OW9vdTBvb3p6MG9ianVrdHd3YTgwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="10%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%7C+Node.js+%2B+Python+%2B+TypeScript;Playwright+%26+Browser+Automation+Expert+%F0%9F%8E%AD;Web+Scraping+%26+AI-Powered+Pipelines+%F0%9F%A4%96;XLSX+Automation+%26+Data+Processing+%F0%9F%93%8A;PM2+%7C+Process+Management+in+Production+%E2%9A%99%EF%B8%8F;The+best+programmers+automate+everything+%F0%9F%9A%80)](https://git.io/typing-svg)
 
