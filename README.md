@@ -9,6 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-lozano-a5189434a)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/carloslozano_77/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosfibex@gmail.com)
+[![Website](https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=railway&logoColor=white)](https://carlos-portfolio-production.up.railway.app/)
 [![Profile Views](https://komarev.com/ghpvc/?username=carlosnaico77&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)](https://visitcount.itsvg.in)
 
 </div>
