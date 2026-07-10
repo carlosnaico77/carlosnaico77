@@ -78,7 +78,7 @@ I don't just write code; I design, structure, and deploy entire ecosystems. From
 ## 🏗️ Software Architecture / Arquitectura de Software
 
 <div align="center">
-  <img src="assets/arqutecturamarketapp.png" alt="Arquitectura de Software" width="85%" />
+  <img src="assets/arqutectura.png" alt="Arquitectura de Software" width="85%" />
 </div>
 
 ---
