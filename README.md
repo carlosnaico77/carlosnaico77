@@ -22,16 +22,18 @@ const carlos: Developer = {
   name:     "Carlos Lozano",
   alias:    "carlosnaico77",
   location: "Venezuela 🇻🇪",
-  role:     "Full Stack Developer & Automation Specialist",
+  role:     "Software Architect, Full Stack Developer & Automation Specialist",
 
   expertise: [
-    "Browser Automation  → Playwright / Puppeteer",
-    "Web Scraping        → static, SPA & JS-heavy sites",
-    "XLSX Automation     → DB queries → structured Excel files",
-    "AI Pipelines        → Scraping + LLM integration",
-    "REST APIs           → NestJS / Express / Node.js",
-    "Process Management  → PM2 clusters, logs & auto-restart",
-    "Full Stack Apps     → React, Next.js, Vue, Angular + backends",
+    "Software Architecture → Designing modular architectures, microservices, and databases (PostgreSQL/Redis)",
+    "Security & Auth      → Advanced JWT, hashing, encryption & secure data flows",
+    "Mobile & E2E Systems  → Packaging APK/IPA & designing the entire required backend/cloud architecture",
+    "Browser Automation    → Playwright / Puppeteer",
+    "Web Scraping          → static, SPA & JS-heavy sites",
+    "XLSX Automation       → DB queries → structured Excel files",
+    "AI Pipelines          → Scraping + LLM integration",
+    "REST APIs & Sockets   → NestJS / Express / WebSockets (Socket.io) for real-time systems",
+    "Process Management    → PM2 clusters, Docker containers, volumes & logs",
   ],
 
   currentProjects: {
@@ -50,19 +52,20 @@ const carlos: Developer = {
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 
-I'm a **Full Stack Developer** from **Venezuela 🇻🇪**, specialized in **automation, algorithms, and intelligent data processing**.
+I'm a **Software Architect & Full Stack Developer** from **Venezuela 🇻🇪**, specialized in **designing complete system architectures, microservices, security, and automation**.
 
-My real passion is identifying repetitive workflows and **turning them into automated systems** — whether through code, scrapers, bots, file generators, or AI pipelines.
+I don't just write code; I design, structure, and deploy entire ecosystems. From packaging native mobile apps (APKs/IPAs) to building the underlying distributed server architectures, databases, cache layers, real-time socket connections, and securing them with proper encryption and token policies.
 
 ### What I actually do day-to-day
 
-🎭 **Browser automation** — Login flows, form filling, multi-step navigation and scheduled tasks with Playwright  
-🕷️ **Web scraping** — Extracting structured data from static, SPA, and JavaScript-heavy websites  
-📊 **XLSX automation** — Querying databases, processing data with custom algorithms, and **auto-generating complete Excel reports** ready to deliver  
-⚙️ **Process management** — Running Node.js services in production with **PM2**: clusters, logs, watchers, and zero-downtime reloads  
-🔌 **REST API development** — Scalable NestJS/Express backends that expose automation logic as clean services  
-🤖 **AI integrations** — Connecting scraping pipelines with LLMs to classify, extract, and summarize data automatically  
-🌐 **Full Stack** — From database schema to polished UI, using React, Next.js, Vue, Angular, and more  
+🏗️ **System Architecture & Microservices** — Designing modular architectures from scratch. Setting up central APIs (`apiModularBase`), WebSockets servers (`serverSocket`), reverse proxies/redirectors (`redirecionador`), and databases with persistent volumes (PostgreSQL, Redis).  
+🔒 **Security & Authentication** — Implementing robust security layers including JWT, data encryption, secure password hashing, and token rotation.  
+📱 **Mobile Architectures** — Building independent mobile apps (APK/IPA packaging) and structuring the complete backend and network infrastructure they require to function under heavy load.  
+🎭 **Browser automation** — Login flows, form filling, multi-step navigation, and scheduled tasks with Playwright.  
+🕷️ **Web scraping** — Extracting structured data from static, SPA, and JavaScript-heavy websites.  
+📊 **XLSX automation** — Querying databases, processing data with custom algorithms, and **auto-generating complete Excel reports** ready to deliver.  
+⚙️ **Process management & DevOps** — Running services in production with **PM2** and **Docker**: configuring clusters, managing logs, volumes, and auto-restart policies for zero-downtime.  
+🤖 **AI integrations** — Connecting scraping pipelines with LLMs to classify, extract, and summarize data automatically.  
 
 <br clear="right"/>
 
@@ -70,10 +73,31 @@ My real passion is identifying repetitive workflows and **turning them into auto
 
 ## 💼 Services
 
-> 💡 **I help businesses and developers automate, extract, and integrate data at scale.**
+> 💡 **I design entire software architectures, secure systems, and automate data workflows at scale.**
 
 <table>
   <tr>
+    <td align="center" width="25%">
+      <br/>
+      <b>🏗️ System Architecture</b>
+      <br/><br/>
+      Designing complete microservice and modular systems. Scalable layouts with integrated DBs (PostgreSQL) and cache/volume management (Redis).
+      <br/><br/>
+    </td>
+    <td align="center" width="25%">
+      <br/>
+      <b>🔒 Security & Cryptography</b>
+      <br/><br/>
+      Implementation of advanced JWT sessions, secure hashing, data encryption, and robust protection methods.
+      <br/><br/>
+    </td>
+    <td align="center" width="25%">
+      <br/>
+      <b>📱 Mobile & E2E Infrastructures</b>
+      <br/><br/>
+      App packaging (APK/IPA) and complete setup of the server, database, and connection architectures they need.
+      <br/><br/>
+    </td>
     <td align="center" width="25%">
       <br/>
       <b>🎭 Browser Automation</b>
@@ -81,6 +105,8 @@ My real passion is identifying repetitive workflows and **turning them into auto
       Playwright & Puppeteer scripts for any workflow. Form filling, login flows, multi-step processes, and scheduled tasks.
       <br/><br/>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="25%">
       <br/>
       <b>🕷️ Web Scraping</b>
@@ -97,39 +123,16 @@ My real passion is identifying repetitive workflows and **turning them into auto
     </td>
     <td align="center" width="25%">
       <br/>
+      <b>🔌 REST & Socket APIs</b>
+      <br/><br/>
+      Node.js / NestJS APIs with real-time support (Socket.io) that expose logic as clean, documented, production-ready services.
+      <br/><br/>
+    </td>
+    <td align="center" width="25%">
+      <br/>
       <b>🤖 AI Data Pipelines</b>
       <br/><br/>
       Combine scraping with LLMs to extract, classify, and summarize data. Smart automation, end to end.
-      <br/><br/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="25%">
-      <br/>
-      <b>🔌 REST API Development</b>
-      <br/><br/>
-      Node.js / NestJS APIs that expose automation logic as clean, documented, production-ready services.
-      <br/><br/>
-    </td>
-    <td align="center" width="25%">
-      <br/>
-      <b>⚙️ Process Management</b>
-      <br/><br/>
-      Deploy and monitor services with PM2 — clusters, logs, auto-restart, and zero-downtime reloads.
-      <br/><br/>
-    </td>
-    <td align="center" width="25%">
-      <br/>
-      <b>🧩 Algorithm Design</b>
-      <br/><br/>
-      Custom algorithms for data transformation, classification, deduplication, and intelligent processing pipelines.
-      <br/><br/>
-    </td>
-    <td align="center" width="25%">
-      <br/>
-      <b>🌐 Full Stack Apps</b>
-      <br/><br/>
-      From database to UI — React, Next.js, NestJS, and any combination your project needs.
       <br/><br/>
     </td>
   </tr>
