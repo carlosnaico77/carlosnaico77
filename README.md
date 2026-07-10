@@ -7,7 +7,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-lozano-a5189434a)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/carlosnaico7)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/carloslozano_77/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosfibex@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=carlosnaico77&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)](https://visitcount.itsvg.in)
 
@@ -37,11 +37,15 @@ const carlos: Developer = {
   ],
 
   currentProjects: {
-    scrapingApiIa:      "AI-powered scraping REST API",
-    navegadorAutomatic: "Intelligent browser automation toolkit",
+    scrapingApiIa:             "AI-powered scraping REST API [Production-Ready]",
+    navegadorAutomatic:        "Intelligent browser automation & mirroring toolkit",
+    appMarketp:                "Multitenant dual-role mobile marketplace ecosystem",
+    privateChat:               "Encrypted white-label messaging app (React Native)",
+    proyectoAutomaticCarlos:   "TaxiBot — WhatsApp platform with GPS Haversine distance matchmaking",
+    flujoEndpointOficinaMovil: "QA & latency technical audit dashboard for mobile backends",
   },
 
-  learning: ["Docker 🐳", "Advanced LLM pipelines", "CI/CD workflows"],
+  learning: ["Advanced LLM pipelines", "CI/CD workflows", "High-performance Socket arrays"],
   motto:    "I don't repeat tasks — I automate them. 🤖",
 };
 ```
@@ -74,7 +78,7 @@ I don't just write code; I design, structure, and deploy entire ecosystems. From
 ## 🏗️ Software Architecture / Arquitectura de Software
 
 <div align="center">
-  <img src="assets/arqutectura.png" alt="Arquitectura de Software" width="85%" />
+  <img src="assets/arqutecturamarketapp.png" alt="Arquitectura de Software" width="85%" />
 </div>
 
 ---
