@@ -71,6 +71,14 @@ I don't just write code; I design, structure, and deploy entire ecosystems. From
 
 ---
 
+## 🏗️ Software Architecture / Arquitectura de Software
+
+<div align="center">
+  <img src="assets/arqutectura.png" alt="Arquitectura de Software" width="85%" />
+</div>
+
+---
+
 ## 💼 Services
 
 > 💡 **I design entire software architectures, secure systems, and automate data workflows at scale.**
